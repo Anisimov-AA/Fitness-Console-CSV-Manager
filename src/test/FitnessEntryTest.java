@@ -1,7 +1,8 @@
-package fitnesscsvlogger;
+package test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import fitnesscsvlogger.FitnessEntry;
 import org.junit.jupiter.api.Test;
 
 class FitnessEntryTest {

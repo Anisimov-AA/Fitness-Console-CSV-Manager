@@ -1,7 +1,9 @@
-package fitnesscsvlogger;
+package test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import fitnesscsvlogger.CsvHandler;
+import fitnesscsvlogger.FitnessEntry;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
