@@ -12,16 +12,18 @@ Track daily fitness data (heart rate, steps, calories, sleep, weight) with autom
 
 ## 🏗️ Architecture
 
+```
 src/   
 ├── fitnesscsvlogger/  
-│   ├── FitnessEntry.java       - Data model with validation  
-│   ├── CsvHandler.java         - File I/O operations  
-│   └── FitnessTracker.java     - Main application  
+│   ├── FitnessEntry.java       # Data model with validation  
+│   ├── CsvHandler.java         # File I/O operations  
+│   └── FitnessTracker.java     # Main application  
 │   test/  
-│   ├── FitnessEntryTest.java   - Model unit tests  
-│   └── CsvHandlerTest.java     - File I/O tests  
+│   ├── FitnessEntryTest.java   # Model unit tests  
+│   └── CsvHandlerTest.java     # File I/O tests  
 data/  
-└── fitness.csv                 - Default fitness data storage
+└── fitness.csv                 # Default fitness data storage
+```
 
 ## 🚀 Features
 
