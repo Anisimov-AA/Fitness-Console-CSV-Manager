@@ -6,10 +6,6 @@ A console-based Java application for tracking daily fitness metrics with CSV dat
   <img src="img/FitnessTracker.jpg" alt="Fitness Tracker Interface" width="800"/>
 </div>
 
-## 📋 Overview
-
-Track daily fitness data (heart rate, steps, calories, sleep, weight) with automatic CSV storage and comprehensive validation.
-
 ## 🏗️ Architecture
 
 ```
